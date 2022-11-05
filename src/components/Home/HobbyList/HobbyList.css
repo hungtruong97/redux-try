@@ -1,0 +1,7 @@
+ul.hobby-list > li.active {
+  color: pink;
+}
+
+ul.hobby-list > li {
+  transition: all 0.25 ease-in;
+}
